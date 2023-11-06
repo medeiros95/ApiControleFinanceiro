@@ -1,24 +1,24 @@
-<h3>É uma RESTful API que permite o gerenciamento de finanças pessoais, incluindo cadastro de usuário, login, detalhamento do perfil do usuário logado, manipulação de transações financeiras, listagem de categorias e muito mais. A segurança e a privacidade do usuário são nossa prioridade, e garantimos que cada usuário só possa ver e manipular seus próprios dados e transações.</h3>
+<h4>É uma RESTful API que permite o gerenciamento de finanças pessoais, incluindo cadastro de usuário, login, detalhamento do perfil do usuário logado, manipulação de transações financeiras, listagem de categorias e muito mais. A segurança e a privacidade do usuário são nossa prioridade, e garantimos que cada usuário só possa ver e manipular seus próprios dados e transações.</h4>
 
-<h3>
+<h4>
   Banco de Dados: Para armazenar os dados, foi usado banco de dados PostgreSQL chamado "DinDin" com tabelas para usuários, categorias e transações.
-</h3>
+</h4>
 
-<h3>
+<h4>
   É feita a validação de todos os campos obrigatórios, como nome, e-mail, senha, entre outros. A senha é criptografada antes de ser armazenada no banco de dados para garantir a segurança dos usuários.
-</h3>
+</h4>
 
-<h3>
+<h4>
  API utiliza códigos de status HTTP para fornecer feedback sobre as operações realizadas. Isso ajuda os usuários a entenderem o resultado de suas solicitações.
-</h3>
+</h4>
 
-<h3>
+<h4>
  Foi desenvolvido também um recurso extra que permite filtrar transações por categoria, o que é especialmente útil para quem deseja categorizar suas despesas e receitas de forma mais eficaz.
-</h3>
+</h4>
 
-<h3>
+<h4>
  Tecnologias utilizadas: JavaScript, Node.js, express, postgres, bcrypt, dotenv, jsonwebtoken e pg.
-</h3>
+</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
