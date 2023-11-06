@@ -1,4 +1,4 @@
-<h3 align="center">É uma RESTful API que permite o gerenciamento de finanças pessoais, incluindo cadastro de usuário, login, detalhamento do perfil do usuário logado, manipulação de transações financeiras, listagem de categorias e muito mais. A segurança e a privacidade do usuário são nossa prioridade, e garantimos que cada usuário só possa ver e manipular seus próprios dados e transações.</h3>
+<h3>É uma RESTful API que permite o gerenciamento de finanças pessoais, incluindo cadastro de usuário, login, detalhamento do perfil do usuário logado, manipulação de transações financeiras, listagem de categorias e muito mais. A segurança e a privacidade do usuário são nossa prioridade, e garantimos que cada usuário só possa ver e manipular seus próprios dados e transações.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
